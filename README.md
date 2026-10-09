@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> This is a fork of [RouHim](https://github.com/RouHim/jaudiotagger)'s fork of jAudioTagger.
+> 
+> I forked the repo in case I need to add changes for the main [MusMeta Project](https://github.com/mas6y6/MusMeta)
+
+# Original Description
+
 This is a maintained fork of [Kaned1as/jaudiotagger](https://github.com/Kaned1as/jaudiotagger).
 
 # Jaudiotagger
